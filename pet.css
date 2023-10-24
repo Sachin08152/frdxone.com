@@ -1,0 +1,110 @@
+
+body{
+    background-color: rgba(0, 0, 0, 0.831);
+    width: 100%;
+    height: 100%;
+}
+.logo{
+    height: 100px;
+    width: 140px;
+}
+.frd{
+    color: aliceblue;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.about{
+    color: aliceblue;
+    margin-left: 600px;
+    margin-top: 70px;
+}
+.p1{
+    color: white;
+    margin-left: 450px;
+    font-style: italic;
+}
+.p2{
+    color: white;
+    margin-left: 150px;
+    font-style: italic;
+}
+.menu{
+    text-align: center;
+}
+.mission{
+    width: 200px;
+    height: 50px;
+    background-color: blueviolet;
+    color: white ;
+    font-size: 20px;
+    border-radius: 30px;
+    margin-top: 80px;
+}
+.content{
+    color: white;
+    font-style: normal;
+    padding: 20px;
+}
+.line{
+    margin-left: 130px;
+}
+.font{
+    padding: 10px;
+    font-style: italic;
+}
+.grow{
+    padding: 49px;
+    height: 200px;
+    width: 350px;
+    border-radius: 80px;
+    margin-left: 50px;
+}
+.container{
+    display: flex;
+}
+.about1{
+    padding: 30px;
+    height: 250px;
+    width: 400px;
+    margin-left: 140px;
+    border-radius: 60px;
+}
+.abouts{
+    display: flex;
+}
+.content1{
+    color: white;
+}
+.about2{
+    font-style: italic;  
+}
+h1{
+    margin-left: 250px;
+}
+.last{
+    margin-left: 400px;
+    font-size: 30px;
+    font-style: italic;
+}
+h2{
+    color: white;
+    margin-left: 225px;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.lastep{
+    display: flex;
+    color: white;
+    margin-left: 300px;
+}
+.email{
+    margin-left: 400px;
+}
+.website{
+    margin-left: 700px;
+    background-color: yellow;
+    color: black;
+}
